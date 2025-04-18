@@ -1,0 +1,25 @@
+.outer
+{
+   height: 300px;
+    width: 500px;
+    border: black solid 2px;
+    text-align: center;
+}
+.top
+{
+    height: 100px;
+    width: 500px;
+    background-color: #cd1127;
+}
+.centre
+{
+    height: 100px;
+    width: 500px;
+    background-color: #ffffff;
+}
+.bottom
+{
+    height: 100px;
+    width: 500px;
+    background-color: #000000;
+}
